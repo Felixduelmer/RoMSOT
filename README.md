@@ -28,8 +28,8 @@ pip install -r requirements.txt
 
 The data required to reproduce the figures is available as assets in the GitHub releases. To download:
 
-1. Navigate to the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page of this repository
-2. Download the data archive(s) from the latest release assets
+1. Navigate to the [Dataset Release v1.0](https://github.com/Felixduelmer/RoMSOT/releases/tag/1.0) page
+2. Download the data archive(s) from the release assets
 3. Extract the archive(s) to the repository root directory
 
 The extracted data should be organized as follows:
